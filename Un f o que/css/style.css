@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0; 
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.color-span {
+    font-weight: 700;
+    color:#8C2D27;
+    
+}
+
+.color-span2 {
+    font-weight: 300;
+    color: #fff;
+}
+
+.header{
+    background: url("../img/1.jpg");
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.header .title{
+    font-size: 70px;
+    text-transform: uppercase;
+}
+
+.header .icon{
+    position: absolute;
+    bottom: 3%;
+    left: 51%;
+    font-size: 30px;
+   
+}
